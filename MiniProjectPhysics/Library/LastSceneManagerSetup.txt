@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Real Stars Skybox/Demo Scene/RealStarsSkyboxFreeAsset.unity
+  isLoaded: 1
+  isActive: 1
